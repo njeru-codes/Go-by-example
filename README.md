@@ -1,8 +1,8 @@
-# Go Practice Project 🚀
+# Go Practice Project 
 
 This repository contains basic Go programs as part of my journey to learn the Go programming language (`golang`). It includes examples covering everything from HTTP servers and requests to concurrency, error handling, and file operations.
 
-## 📚 Topics Practiced
+##  Topics Practiced
 
 - Hello World
 - Variables & Constants
@@ -28,5 +28,5 @@ This repository contains basic Go programs as part of my journey to learn the Go
 2. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/go-practice.git
-   cd go-practice
+   git clone https://github.com/njeru-codes/Go-by-example.git
+   cd Go-by-example
